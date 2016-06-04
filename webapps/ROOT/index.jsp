@@ -21,7 +21,7 @@
 		</p>
 		<nav>
 		<ul>
-			<li><a href="index.jsp">Home</a></li>
+			<li><a href="index.jsp">Java Home</a></li>
 			<li><a href="about.jsp">About Us</a></li>
 		</ul>
 		</nav> </header>
